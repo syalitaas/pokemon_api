@@ -1,16 +1,6 @@
 # pokemon_api
-
-A new Flutter project.
+Syalita Widyandini (20), 3.34.21.3.23, IK-2D
 
 ## Getting Started
+![image](https://user-images.githubusercontent.com/117131647/212442208-8b2444db-bbc1-47c8-af40-df016facdb0a.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
